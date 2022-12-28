@@ -1,2 +1,11 @@
+.holder{
+    background-color:black;
+    display: flex;
+    justify-content: space-between; 
+    flex-wrap: wrap;
+}
 
+.box{
+    background-color: blue;
+}
 /* Your CSS Code here. */
